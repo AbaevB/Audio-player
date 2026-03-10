@@ -1,6 +1,6 @@
 {
   "name": "audio-player",
-  "private": true,
+  "private": ,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
