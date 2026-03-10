@@ -1,2 +1,3 @@
 import './scss/style.scss'
-import { setupCounter } from './counter.ts'
+import './types'
+import './services/DOMgenerator'
